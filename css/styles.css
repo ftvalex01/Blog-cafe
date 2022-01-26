@@ -140,6 +140,8 @@ img{
     font-weight: 400;
     font-size: 2rem;
 }
+
+
 /* Footer */
 .footer{
     background-color: var(--negro);
@@ -169,5 +171,10 @@ img{
     }
     .boton{
         display: inline-block;
+    }
+    .sobre-nosotros{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        column-gap: 2rem;
     }
 }

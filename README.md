@@ -5,3 +5,6 @@
  es totalmente responsive y esta trabajada la optimizacion .
  
  https://blog-cafe-ejemplo.netlify.app/
+
+
+![cafe perfomance](https://user-images.githubusercontent.com/60783944/151378203-cdfd2910-b2fc-46ef-ac5d-ce140a257d6d.png)
